@@ -1,6 +1,6 @@
 # static-artifacts
 
-This repository is dedicated to storing static assets for various open-source projects maintained by [Your Name/Organization]. It serves as a central location for commonly used resources such as images, fonts, stylesheets, JavaScript files, and other media files.
+This repository is dedicated to storing static assets for various open-source projects maintained by SnowBall-Bqiu. It serves as a central location for commonly used resources such as images, fonts, stylesheets, JavaScript files, and other media files.
 
 ## Purpose
 
@@ -20,30 +20,6 @@ The repository is organized into directories based on project names or asset typ
 *   `styles/`: Contains CSS and SCSS files.
 *   `scripts/`: Contains JavaScript files.
 *   `media/`: Contains other media files (e.g., audio, video).
-
-## Usage
-
-To use the assets in this repository, simply clone the repository or download the specific files you need.
-
-```bash
-git clone https://github.com/[Your Username]/static-artifacts.git
-```
-
-Then, reference the assets in your projects using the appropriate paths.
-
-## Contributing
-
-We welcome contributions to this repository! If you have assets that you would like to share, please follow these guidelines:
-
-1.  Fork the repository.
-2.  Create a new branch for your contribution.
-3.  Add your assets to the appropriate directory.
-4.  Update the README.md file with information about your assets.
-5.  Submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the assets as you see fit.
 
 ## Contact
 
