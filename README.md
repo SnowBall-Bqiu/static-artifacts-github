@@ -21,6 +21,3 @@ The repository is organized into directories based on project names or asset typ
 *   `scripts/`: Contains JavaScript files.
 *   `media/`: Contains other media files (e.g., audio, video).
 
-## Contact
-
-If you have any questions or suggestions, please feel free to contact [Your Name/Email Address].
