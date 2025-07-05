@@ -21,3 +21,6 @@ The repository is organized into directories based on project names or asset typ
 *   `scripts/`: Contains JavaScript files.
 *   `media/`: Contains other media files (e.g., audio, video).
 
+## Existing script list （已有的脚本列表）
+
+[Script List  (脚本列表)](https://github.com/SnowBall-Bqiu/static-artifacts-github/blob/main/docx/script.md)
